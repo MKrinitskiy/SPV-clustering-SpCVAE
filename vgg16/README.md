@@ -1,0 +1,1 @@
+This is the directory where VGG16 weights are downloaded to
